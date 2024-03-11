@@ -30,5 +30,6 @@ body{
 
 .secao1{
     display: flex;
-    background-image: linear-gradient(#424e61, #16cff8);
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 42%, rgba(55,0,255,1) 100%);
 }
