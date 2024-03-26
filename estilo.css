@@ -47,7 +47,8 @@ body{
 }
 
 .secao2-todos-tripulantes{
-    display: flex;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
 }
 
 .secao2-todos-tripulantes img{
