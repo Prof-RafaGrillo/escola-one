@@ -49,3 +49,8 @@ body{
 .secao2-todos-tripulantes{
     display: flex;
 }
+
+.secao2-todos-tripulantes img{
+    width: 20px;
+    height: 50px;
+}
